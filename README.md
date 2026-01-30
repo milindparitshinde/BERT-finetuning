@@ -1,4 +1,4 @@
-<img width="1486" height="550" alt="Screenshot 2026-01-31 at 12 21 07 AM" src="https://github.com/user-attachments/assets/d2787f42-4072-4ef2-8ffc-ee8808e7871e" /># BERT Finetuning
+# BERT Finetuning
 
 ## Objective
 Finetuning pre trained Google's BERT model on the desired context to get the required answers of the questions asked. It will be a QnA model returning the relevent text based on the question by preserving the core idea.
