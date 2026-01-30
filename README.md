@@ -32,6 +32,7 @@ One of it's limiations is it's squenence length which is 512, if length > 512 th
 
 ### Triumph
 Divivde the sentence into chuncks to overcome this limitation
+
 <img width="522" height="623" alt="Screenshot 2026-01-31 at 12 10 59 AM" src="https://github.com/user-attachments/assets/bea55467-7a7c-4971-a5cd-071d5af427d8" />
 
 <img width="1231" height="635" alt="Screenshot 2026-01-31 at 12 11 28 AM" src="https://github.com/user-attachments/assets/28e7829b-bbba-49d2-8313-c523281cc3d4" />
